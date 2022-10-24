@@ -31,7 +31,7 @@ Using the same aspect ratio in marketplace cards, for the sake of being uniform 
 
 
 
-Currently, we set the image to `fill` its container's aspect ratio, leaving out no empty space but crops some part of the image that doesn't fit that aspect ratio
+Currently, we set the image to `fill`, ([see other options in figma](https://www.figma.com/file/SpVZeFWTSICbjOMNGuAkPq/aspect-ratio?node-id=0%3A1)) its container's aspect ratio, leaving out no empty space but crops some part of the image that doesn't fit that aspect ratio
 
 <img width="380" alt="image" src="https://user-images.githubusercontent.com/89639563/197445991-461a8769-abb6-498e-a451-e334686f2dd0.png">
 
